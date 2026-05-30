@@ -1,5 +1,5 @@
 # odin-recipes
 
-Intro - What Is this Project About
+About This Project
 
 Skills Demonstrated
